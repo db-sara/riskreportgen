@@ -1,0 +1,88 @@
+{
+    "net-income": [
+      {
+        "type": "quarter",
+        "amount": 57411000000
+      },
+      {
+        "type": "quarter",
+        "amount": 57410000000
+      }
+    ],
+    "operating-costs": [
+      {
+        "type": "quarter",
+        "amount": 4860000000
+      },
+      {
+        "type": "quarter",
+        "amount": 4230000000
+      }
+    ],
+    "net-assets": [
+      {
+        "type": "quarter",
+        "amount": 100000000000
+      },
+      {
+        "type": "quarter",
+        "amount": 90000000000
+      }
+    ],
+    "stock-prices": [
+        {
+          "open": 118,
+          "close": 120,
+          "high": 122,
+          "low": 117,
+          "date": "2019-08-24"
+        },
+        {
+          "open": 121,
+          "close": 119,
+          "high": 122,
+          "low": 118,
+          "date": "2019-08-24"
+        }
+      ],
+    "num-shares": [
+      {
+        "type": "quarter",
+        "amount": 170000000000
+      },
+      {
+        "type": "quarter",
+        "amount": 160000000000
+      }
+    ],
+    "dividends": [
+      {
+        "type": "quarter",
+        "amount": 0.205
+      },
+      {
+        "type": "quarter",
+        "amount": 0.206
+      }
+    ],
+    "net-liability": [
+      {
+        "type": "quarter",
+        "amount": 94000000000
+      },
+      {
+        "type": "quarter",
+        "amount": 86000000000
+      }
+    ],
+    "total-revenue": [
+      {
+	"type": "quarter",
+	"amount": 30284884853492
+      },
+      {
+	"type": "quarter",
+	"amount": 29483239503458
+      }
+    ]
+  }
